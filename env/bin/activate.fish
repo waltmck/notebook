@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/waltmck/Library/CloudStorage/Dropbox/tight identity testing/notebook/env"
+set -gx VIRTUAL_ENV "/Users/jack_wang/notebook/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

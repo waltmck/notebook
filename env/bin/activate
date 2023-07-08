@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/waltmck/Library/CloudStorage/Dropbox/tight identity testing/notebook/env"
+VIRTUAL_ENV="/Users/jack_wang/notebook/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
